@@ -95,5 +95,9 @@
   "Enable Dialogs": "Enable Dialogs",
   "Profile Picture Path": "Profile Picture Path",
   "No": "No",
-  "Lock the current session": "Lock the current session"
+  "Lock the current session": "Lock the current session",
+  "Focus": "Focus",
+  "Display": "Display",
+  "Volume": "Volume",
+  "Wi-Fi": "Wi-Fi"
 }

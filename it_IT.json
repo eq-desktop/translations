@@ -96,5 +96,8 @@
   "Profile Picture Path": "Percorso immagine profilo",
   "No": "No",
   "Lock the current session": "Blocca sessione corrente",
-  "Focus": "Focus"
+  "Focus": "Focus",
+  "Display": "Display",
+  "Volume": "Volume",
+  "Wi-Fi": "Wi-Fi"
 }
